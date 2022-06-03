@@ -26,6 +26,18 @@ Note: `<img>` tags are auto-optimized, causing a drop in resolution. Use the `ba
 
 ![image](https://user-images.githubusercontent.com/69858266/116469754-894f9700-a840-11eb-8140-32b166d0e3e6.png)
 
+### template-5.html
+
+![image](https://user-images.githubusercontent.com/108287/171932272-7ebd4a8a-fbb9-41f4-b1a2-d8f77ddb6538.png)
+
+### template-6.html
+
+![image](https://user-images.githubusercontent.com/108287/171932755-da4c18b1-5bff-4fcb-b61c-4fce3f17f01b.png)
+
+### template-7.html
+
+![image](https://user-images.githubusercontent.com/108287/171933427-c48ffd73-9b71-4445-b904-ddd3def9c812.png)
+
 ## Sidebar ads
 
 ### template-0.html
